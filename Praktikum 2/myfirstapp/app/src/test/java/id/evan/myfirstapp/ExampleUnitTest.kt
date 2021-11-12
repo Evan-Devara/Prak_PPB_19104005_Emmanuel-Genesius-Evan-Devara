@@ -1,4 +1,4 @@
-package id.vitoR_19104063.myfirstapp
+package id.evan.myfirstapp
 
 import org.junit.Test
 
