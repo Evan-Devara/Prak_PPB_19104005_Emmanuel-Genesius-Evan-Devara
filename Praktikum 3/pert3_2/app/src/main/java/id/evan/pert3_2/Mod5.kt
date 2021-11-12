@@ -1,4 +1,4 @@
-package id.vitor_19104063.pert3_2
+package id.evan.pert3_2
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
