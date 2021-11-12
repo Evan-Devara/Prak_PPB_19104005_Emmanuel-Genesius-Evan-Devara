@@ -1,4 +1,4 @@
-package id.vitor_19104063.helloittp
+package id.evan.helloittp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
