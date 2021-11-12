@@ -7,7 +7,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "id.vitor_19104063.helloittp"
+        applicationId "id.evan.helloittp"
         minSdk 21
         targetSdk 31
         versionCode 1
